@@ -170,6 +170,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Development
 
+- [repomcp](https://github.com/kanchingyg/repomcp) - Turn any repo, CLI binary, OpenAPI spec, or SQLite DB into an MCP server.
+- [iam-tap](https://github.com/kanchingyg/iam-tap) - Live AWS SDK CSM interceptor that emits least-privilege IAM policies.
+- [aws-bleed](https://github.com/kanchingyg/aws-bleed) - Read-only AWS waste scanner with Terraform fix hints.
 - [legit](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
 - [rebound](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
@@ -225,6 +228,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 
 ### Database
 
+- [dbwatch](https://github.com/kanchingyg/dbwatch) - Git-style live row diff for SQLite/D1/Postgres around any command.
 - [mycli](https://github.com/dbcli/mycli) - MySQL client with autocompletion and syntax highlighting.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting.
 - [sqlline](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
